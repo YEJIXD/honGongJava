@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="034eefd3-86c0-4da4-b3b9-8cf8be65c862" name="Changes" comment="">
+    <list default="true" id="034eefd3-86c0-4da4-b3b9-8cf8be65c862" name="Changes" comment="Array, Enumeration Type">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ReferenceType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReferenceType.java" afterDir="false" />
     </list>
@@ -38,8 +38,16 @@
       <option name="presentableId" value="Default" />
       <updated>1669269132116</updated>
       <workItem from="1669269133754" duration="293000" />
-      <workItem from="1669363190863" duration="1044000" />
+      <workItem from="1669363190863" duration="1425000" />
     </task>
+    <task id="LOCAL-00001" summary="Array, Enumeration Type">
+      <created>1669364301524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669364301524</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Array, Enumeration Type" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array, Enumeration Type" />
   </component>
 </project>
