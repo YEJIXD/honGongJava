@@ -28,7 +28,7 @@ public class AbstractClass {
     * */
 
     // 추상 클래스 선언
-    public abstract class Test(){
+    public abstract class Test{
         // 필드
         // 생성자
         // 메서드
