@@ -135,7 +135,7 @@ public class ReferenceType {
         */
 
         // ex) Week가 열거 타입
-        public enum Week {
+        /*public enum Week {
             MONDAY,
             TUESDAY,
             WEDNESDAY,
@@ -143,11 +143,11 @@ public class ReferenceType {
             FRIDAY,
             SATURDAY,
             SUNDAY
-        }
+        }*/
         // Week로 변수 선언 가능
-        Week today;
+       // Week today;
         // today 변수에 저장할 수 있는 것은 Week에 선언된 7개의 열거 상수 중 하나이다.
-        today = Week.FRIDAY;
+        //today = Week.FRIDAY;
         
         /*
         * 열거 타입 선언
@@ -169,18 +169,18 @@ public class ReferenceType {
               > 관례적으로 열거 상수는 모두 대문자로 작성
 
         */
-        public enum Week { MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY }
+        //public enum Week { MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY }
 
         // 여러 단어로 구성될 경우 '_' 사용
-        public enum LoginResult { LOGIN_SUCCESS, LOGIN_FAILED }
+       // public enum LoginResult { LOGIN_SUCCESS, LOGIN_FAILED }
 
         /*
         * 열거 타입 변수
            : 열거 타입도 하나의 타입이므로 변수를 선언하고 사용해야 함
              ex) 열거타입 변수;
         */
-        Week today;
-        Week reservationDay;
+        /*Week today;
+        Week reservationDay;*/
 
         /*
         - 열거 타입 변수를 선언했다면, 열거 상수를 저장할 수 있음
