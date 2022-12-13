@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="034eefd3-86c0-4da4-b3b9-8cf8be65c862" name="Changes" comment="1201_Inheritance">
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/CellPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/DmbCellPhone.java" afterDir="false" />
+    <list default="true" id="034eefd3-86c0-4da4-b3b9-8cf8be65c862" name="Changes" comment="1201_Inheritance Class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +66,8 @@
       <workItem from="1669700610586" duration="5066000" />
       <workItem from="1669804166585" duration="2493000" />
       <workItem from="1669857190986" duration="339000" />
-      <workItem from="1669875541591" duration="1950000" />
+      <workItem from="1669875541591" duration="2574000" />
+      <workItem from="1669946443950" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="Array, Enumeration Type">
       <created>1669364301524</created>
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669875566242</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1201_Inheritance Class">
+      <created>1669889609312</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669889609312</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +147,7 @@
     <MESSAGE value="1129_AbstractClass" />
     <MESSAGE value="1130_Interface" />
     <MESSAGE value="1201_Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="1201_Inheritance" />
+    <MESSAGE value="1201_Inheritance Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="1201_Inheritance Class" />
   </component>
 </project>
