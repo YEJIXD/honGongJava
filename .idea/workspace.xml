@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="034eefd3-86c0-4da4-b3b9-8cf8be65c862" name="Changes" comment="1201_Inheritance Class">
+    <list default="true" id="034eefd3-86c0-4da4-b3b9-8cf8be65c862" name="Changes" comment="Java의 정석 예제 3_6 (나머지 연산자 사용하기)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,46 @@
       <recent name="etc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StarEX">
+  <component name="RunManager" selected="Application.Excercise3_4">
+    <configuration name="Excercise3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exPrac.Excercise3_2" />
+      <module name="honGongJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exPrac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Excercise3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exPrac.Excercise3_3" />
+      <module name="honGongJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exPrac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Excercise3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exPrac.Excercise3_4" />
+      <module name="honGongJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exPrac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StarEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="etc.StarEX" />
       <module name="honGongJava" />
@@ -67,6 +106,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Excercise3_4" />
+        <item itemvalue="Application.Excercise3_3" />
+        <item itemvalue="Application.Excercise3_2" />
         <item itemvalue="Application.StarEX" />
         <item itemvalue="Application.test" />
       </list>
@@ -90,7 +132,16 @@
       <workItem from="1669946443950" duration="20000" />
       <workItem from="1671002924358" duration="17000" />
       <workItem from="1671073877892" duration="20000" />
-      <workItem from="1673600530715" duration="1157000" />
+      <workItem from="1673600530715" duration="1371000" />
+      <workItem from="1673939050629" duration="108000" />
+      <workItem from="1673939375462" duration="859000" />
+      <workItem from="1673950877507" duration="139000" />
+      <workItem from="1674006613250" duration="13000" />
+      <workItem from="1674017221322" duration="630000" />
+      <workItem from="1674018750645" duration="1655000" />
+      <workItem from="1674036843412" duration="871000" />
+      <workItem from="1674091325816" duration="1749000" />
+      <workItem from="1675316829070" duration="1288000" />
     </task>
     <task id="LOCAL-00001" summary="Array, Enumeration Type">
       <created>1669364301524</created>
@@ -148,7 +199,42 @@
       <option name="project" value="LOCAL" />
       <updated>1669889609312</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0113_ star">
+      <created>1673602243320</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673602243320</updated>
+    </task>
+    <task id="LOCAL-00010" summary="연산자 계산해보기">
+      <created>1673950914132</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673950914132</updated>
+    </task>
+    <task id="LOCAL-00011" summary="빈 칸 안에 코드 넣기">
+      <created>1673950937257</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673950937257</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Java의 정석 예제 3_3~5">
+      <created>1674036883180</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674036883181</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Java의 정석 예제 3_6 (나머지 연산자 사용하기)">
+      <created>1674040015300</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674040015300</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +257,12 @@
     <MESSAGE value="1130_Interface" />
     <MESSAGE value="1201_Inheritance" />
     <MESSAGE value="1201_Inheritance Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="1201_Inheritance Class" />
+    <MESSAGE value="0113_ star" />
+    <MESSAGE value="java * 찍기" />
+    <MESSAGE value="연산자 계산해보기" />
+    <MESSAGE value="빈 칸 안에 코드 넣기" />
+    <MESSAGE value="Java의 정석 예제 3_3~5" />
+    <MESSAGE value="Java의 정석 예제 3_6 (나머지 연산자 사용하기)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java의 정석 예제 3_6 (나머지 연산자 사용하기)" />
   </component>
 </project>
